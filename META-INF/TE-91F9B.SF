@@ -1,0 +1,1122 @@
+Signature-Version: 1.0
+Created-By: 9.0.1 (Oracle Corporation)
+SHA-256-Digest-Manifest: qW9DozASGLesfWzy2UiYVyxAvGoV8SE/3SMHc1MLPco=
+SHA-256-Digest-Manifest-Main-Attributes: nl5Bebl1qr904h5IaUx1u9ueuusUC
+ DJuFMaXREcKuNs=
+
+Name: pictures/explosion0001.gif
+SHA-256-Digest: 97K2yrYpx+DyR2iuXhfcDyr9854OVvtoIoMCMYIYq6Y=
+
+Name: com/aapeli/multiplayer/client/session/game/video/VideoBuffer.cla
+ ss
+SHA-256-Digest: thsz5AIsiPK0s5e/zeySWNPkAgVW0uTbqnELmbiY/9I=
+
+Name: com/aapeli/multiplayer/client/session/game/gui/ChatEditorKit.cla
+ ss
+SHA-256-Digest: 8ojdra0zkXc8WiEVbQRmGLUNkvQQF8p4/FPTyERU1E4=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/StatsScreen.class
+SHA-256-Digest: YkojW55SJ/77xAZNZs/I4UPL+NGSrUo5aeG4tWUPOzU=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/ImportantBu
+ ilding.class
+SHA-256-Digest: 5UY+xE5V82KiQRHCqxz5EMRaPHdm+ojVHhJUf0pxAwI=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/Sky.class
+SHA-256-Digest: Zz7n1CA/JQi62xVAYKBZlsANEw2g7ZENrr6Epk8Ev9w=
+
+Name: sounds/hit.au
+SHA-256-Digest: V/8Gdsk5yvC6Dt7Ie1WxSf40p8ud6oiWFrlMqX3+7cM=
+
+Name: com/aapeli/multiplayer/client/session/game/video/VideoSession.cl
+ ass
+SHA-256-Digest: LrWGLhvKY+fo/sZyxaiNiXv5nRT1x4pPDKhCsNv43pA=
+
+Name: com/aapeli/multiplayer/client/session/error/ErrorScreen$1.class
+SHA-256-Digest: 5r7Ef4LUEm5i9hR63tyTDFVc686uZpHWYOxsBQS5nqk=
+
+Name: com/aapeli/multiplayer/impl/dogfight/common/ChatMessageProtocol.
+ class
+SHA-256-Digest: X6EpkPtgThRxGgDOoNDdfaymGvidLGaYSh2LH2mAhG8=
+
+Name: pictures/plane6.gif
+SHA-256-Digest: hBaOQPIbK4cgvmS20i4b7TiLwjDQ4hEZ8oEOcXVbgHU=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/WorldInfo.c
+ lass
+SHA-256-Digest: 1iVfJO4TYYdSSC4rZiF3OlBwYZDWk+Ujyuu1JXWIwIs=
+
+Name: com/aapeli/multiplayer/client/resources/Localization.class
+SHA-256-Digest: 3VktaSlGfrDC2ZOAxnB14VH2ssMxDOfEAeN3tlI97lw=
+
+Name: pictures/plane5_flip1.gif
+SHA-256-Digest: R2/ViOqIKJUTe3ivICstv7y2zO8cMyafomP4XWV2MO0=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/ManageView$1.cla
+ ss
+SHA-256-Digest: KZwHfEqbhZHEufZMOuHLydZm/gpfxys+nHqij9+WiB4=
+
+Name: com/aapeli/multiplayer/client/session/chat/ChatScreen$2.class
+SHA-256-Digest: Lo/48W0ugyvByMTotRFf3WqkBRxT+dU2VMZxz76tXYw=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/ScoreTable$CustomCel
+ lRenderer.class
+SHA-256-Digest: oh13hfWN6T+7ZH2seOuAqVsSO8iXTnOP59iGETPBMHQ=
+
+Name: com/aapeli/multiplayer/util/console/ConsoleEvent.class
+SHA-256-Digest: E0KCjd1aqTWmgXFtTbvxakqhW+K7XC0Xdb1oHqTW82I=
+
+Name: com/aapeli/multiplayer/client/session/game/PacketBuffer.class
+SHA-256-Digest: x6K30xvz6kj4XvJPHuB/qqW2izjvuxsFiybqOHXKRZA=
+
+Name: pictures/flag_raf_3.gif
+SHA-256-Digest: cgtt8eIVjGARNlyz8Ku5sartzSZgCc4zDFlzyebo0Ds=
+
+Name: pictures/pic_plane7.gif
+SHA-256-Digest: 896A0ddEnGK/BbMtKQIftbRPLS6zQgMJzA/aWkelsUs=
+
+Name: com/aapeli/multiplayer/client/session/game/GameSession$1.class
+SHA-256-Digest: fChBqwMJr+42BnrTXaJ3+3Pn2GuUU9zgJ499oVSHfXs=
+
+Name: com/aapeli/multiplayer/client/session/game/gui/ChatDecorator$Sty
+ le.class
+SHA-256-Digest: j/UJsItSyTO0SAkxnMv59NYx4VuxzhNWZY9yc4c1kzE=
+
+Name: com/aapeli/multiplayer/util/TableSorter.class
+SHA-256-Digest: tcHSZUMX/mk+L2AhxaPFMWo1fACBGenpWyyg+tdmGZM=
+
+Name: pictures/wave-l_6.gif
+SHA-256-Digest: hpvl0S+DwkZbDSrphV7YCJv2uFA5tXc9AgaRbL3b9dk=
+
+Name: com/aapeli/multiplayer/client/session/ClientSessionManager$1.cla
+ ss
+SHA-256-Digest: 4Q3Iqpch9UBoaPg1Ex/aG10upFg8QhGxBkD9y76y9bU=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/AlbatrosPla
+ ne.class
+SHA-256-Digest: ANaGCrm97j1rQhaliG7blGiKYucK/E9ntlD4MKRqg+o=
+
+Name: com/aapeli/multiplayer/util/console/Console$2.class
+SHA-256-Digest: azvngCuBfuaK5lPTnXv9+MxQxmHtt3i5SeW0aJ0N374=
+
+Name: com/aapeli/multiplayer/util/DuplicatedMap$MapValue.class
+SHA-256-Digest: GMTPXXQSpSW+zvQfrOX8fsJ2NRnc+lYrWiE4Mxxr1/s=
+
+Name: com/aapeli/multiplayer/client/session/chat/ChatSession$3.class
+SHA-256-Digest: 39JLmPXB4gP4fg7kgDXG3yykC12vAgJHeIdtijLJveA=
+
+Name: com/aapeli/multiplayer/util/console/Console.class
+SHA-256-Digest: tHl/BEeeUreY2/uKgYKXoddbDwEZRdqMzI4ZeAMF81s=
+
+Name: com/aapeli/shared/ColorTextArea$Line.class
+SHA-256-Digest: CjttMjwWyuNPS9NbNsT0+PekpZuhTd3QPPkIPyUgZjk=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/DogfightGame.class
+SHA-256-Digest: kLLdcFsWkjFaMlizotlQJsDLEzfR6pMwm7xX9Y9Tj34=
+
+Name: com/aapeli/multiplayer/common/resources/ImageLoader.class
+SHA-256-Digest: JzHS6FbMCdasR/jsbnrgu2dxyzdUC0Y0NoJFInrjDa8=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/Coast.class
+SHA-256-Digest: 1dSyKPve7hwFn1qrtU5XRGoI7pLbskGAyowuYNVAk7I=
+
+Name: pictures/beach-l.gif
+SHA-256-Digest: 8P8TvN624Oz6HasUJtEdXtAotzJyx7vRO43vkOu2JcY=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/View$4.class
+SHA-256-Digest: 4X1Zsi1Ssf1KvpH5/o6xfm/XXS55+rd4DtHJggZU6oc=
+
+Name: com/aapeli/multiplayer/client/session/chat/create/Option.class
+SHA-256-Digest: N4WOdLcm1DHRCA58hb4m22xGu+HAtQ85zMLYgBUWid4=
+
+Name: com/aapeli/multiplayer/client/session/chat/create/RoomTimePanel$
+ 2.class
+SHA-256-Digest: jxwAIvY4O/LY61m64PLNf7BRH1RZSDVSC/qcwfwhPCg=
+
+Name: pictures/controlTowerDesert.gif
+SHA-256-Digest: yzbEXOz35xAFAHyqTOkyyYwQmH/8zp/qhzllbEdzgC4=
+
+Name: pictures/flag_ger_3.gif
+SHA-256-Digest: L5za8hiG294pWUn2F+xSLwOSp9RucFpu1E5nDL70Dfc=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/Respawner.c
+ lass
+SHA-256-Digest: Qr/x/uHZV+dizqBDlBMdo7Y5jqV/wGUP3juSY+0XYCw=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/Ghost.class
+SHA-256-Digest: KkHcNJThfZZ3m6fqf875FReGBkokLAMtHfzZ8XyFH8o=
+
+Name: com/aapeli/shared/ChatTextArea.class
+SHA-256-Digest: foDTmpP7xhkT/p4MoMXgj5h+DM4TZRbwvUQ/TdQzRWY=
+
+Name: com/aapeli/shared/ColorList.class
+SHA-256-Digest: EaV0KVbBVUQqCZ8pw6ydTnLsy1Qam0DV9gMI6857UP0=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/CreateView$3.cla
+ ss
+SHA-256-Digest: WQAV0lyYhTj8wfBsCGJqie6dhhGC54JgJkIaN7EFm6Y=
+
+Name: pictures/plane4_flip1.gif
+SHA-256-Digest: 4Dh5d1rINzhusLaPiUGE3Z9Ic3NRf5ayC/4fZ8YKKIM=
+
+Name: com/aapeli/multiplayer/client/session/game/gui/ChatField$2.class
+SHA-256-Digest: o7qab1hFUMDnGQ7NXyq0a3zY+b1Ok7RaT9HSVProbwY=
+
+Name: pictures/mdl_page.jpg
+SHA-256-Digest: G2VlXoASCr9bH/eDPNKn9TSN5kv+Q5rlu2PgH3eQbYs=
+
+Name: pictures/raf_flag_small.gif
+SHA-256-Digest: 7RbxcydiNo+W2+A0cAADd8oAx6aPNnYAxj0b017ygiI=
+
+Name: com/aapeli/multiplayer/util/TimeQueue$Element.class
+SHA-256-Digest: OgS13sOCrteOEleXBD+HFxaU8/s1pOCSs5SkknWqH/E=
+
+Name: pictures/beach-l_desert.gif
+SHA-256-Digest: stdBvRBbgrGZcWJtUEWMO+9Az2e40VW5ZfWyr063aAg=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/Ground.clas
+ s
+SHA-256-Digest: prjYYRh2T//e581RnN+Ozou0ns9hs9qND1TOKCo2TBk=
+
+Name: com/aapeli/multiplayer/client/session/chat/ChatSession$4.class
+SHA-256-Digest: faxCBCH6U3q4b8JQq6uJGvO7kXSbN7Gf0CZyfj2/U3s=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/ManageView$2.cla
+ ss
+SHA-256-Digest: 0c708TbEn5EZeRxhnK4X0j8r95d9h/z3f/1ocstHX9I=
+
+Name: pictures/plane9.gif
+SHA-256-Digest: DSAfezi2q4G57/jBrZkqNIwKiC0cBIEGbLz/vkIXsHw=
+
+Name: com/aapeli/shared/UserListHandler.class
+SHA-256-Digest: IBJla65qM1joDbVd2UIpMZb2unnkce6SqcN4yPdGMZA=
+
+Name: com/aapeli/multiplayer/common/network/ChatProtocol.class
+SHA-256-Digest: 711yOfQ2ElChE3XeJyLlveARff1VopYxYq9c63mi+SY=
+
+Name: com/aapeli/multiplayer/util/console/ConsoleArea.class
+SHA-256-Digest: Kkl3UgT6kNrxJaE7Hl2PgOqvw1iLpUahrBnA/+YwEZQ=
+
+Name: com/aapeli/shared/AdminFrame.class
+SHA-256-Digest: 5DOAr28ylr4IvyLAyg7C8xIbxRSs07X+sD5bfNlQujU=
+
+Name: pictures/wave-l_3.gif
+SHA-256-Digest: 1Am2ipLKvXG6pGJNtKr0EuyTh9L+RZJ2KT13E22xErE=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/JoinView$2.class
+SHA-256-Digest: tvOO29NlQ+OIRmudFEQayVAevpLFgrmqJoUfLRWuY2A=
+
+Name: com/aapeli/multiplayer/util/ParameterWrapper.class
+SHA-256-Digest: YRWh8vbGIFu/uciJcTlGPSjiRaPZpYLlolMjBrazZ8Y=
+
+Name: com/aapeli/multiplayer/client/session/game/gui/AbstractChatEdito
+ rPane$ChatMessage.class
+SHA-256-Digest: iBVUyWnWDWwUw/GSNpZIcRqM/EEkIb8lUhW65VKtNlo=
+
+Name: pictures/headquarter_broke.gif
+SHA-256-Digest: 5cfwX8RJwY2KICBgIkveIwrHgxaz0wSxXJwokVHVtiA=
+
+Name: com/aapeli/multiplayer/client/session/chat/Shader.class
+SHA-256-Digest: qsV1LfQmmzn0Cu0LilXHXfpUNmEzgPrYn25eMZBrOto=
+
+Name: com/aapeli/multiplayer/common/network/NetworkConstants.class
+SHA-256-Digest: hDcUAIrm5jJgIURrXcaNlFILevAeLqBcqlx0JBqknNQ=
+
+Name: pictures/runway2.gif
+SHA-256-Digest: OgM3FGGuQ9Ri/MQVDx6k+M52EfYK/U7kntKtVP1Lqpk=
+
+Name: com/aapeli/multiplayer/common/network/GameProtocol.class
+SHA-256-Digest: xRfWlwZTRX6PjHwvVZXkI9V59K7L15+PIU6RpxajoEc=
+
+Name: pictures/explosion0005.gif
+SHA-256-Digest: oMFyrT4A+2lRaV0WIuGnK+ekK4OVKvoaVLGz/dWZ8C4=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/ChallengeView$1.
+ class
+SHA-256-Digest: 2rga96+Qfy92fAxQ3jjNB1o/yOo5DxvHdrF4FiTFdYE=
+
+Name: com/aapeli/multiplayer/common/network/ChatEvent.class
+SHA-256-Digest: b4r+czsJ3ofe7B2B/FyXNTkQdkZ5kZsrpRz6h72gfdU=
+
+Name: com/aapeli/multiplayer/client/session/game/gui/ChatField$3.class
+SHA-256-Digest: 9Jfd7c4jSk2fPt4I9/FL0hu+z8bz0HyXadfNE0igwLI=
+
+Name: com/aapeli/multiplayer/client/session/chat/create/ModifiableList
+ $FireListener.class
+SHA-256-Digest: Tq59ntezwKv5pKzBjB2m+cSzADUV9tG4pzLoyPDtrio=
+
+Name: com/aapeli/multiplayer/common/event/EventCodex.class
+SHA-256-Digest: qkNsHLHgYS9MBDPZtEiiHVGq9/JV54M5/una5/cXZQE=
+
+Name: com/aapeli/multiplayer/util/TableSorter$Arrow.class
+SHA-256-Digest: NffNdXBI0KHbHQTimtDl2BhpEeQaMP2RuNeng+azGBs=
+
+Name: pictures/palmtree.gif
+SHA-256-Digest: iha8jfcp6Hfab5LOEU09pcmlsOmKMQi37LcevsI/spA=
+
+Name: pictures/plane6_flip1.gif
+SHA-256-Digest: +R32gDH6n2KfFMauveGeAWm26Vqp0AjxQCWkAXfIwMU=
+
+Name: sounds/motor.au
+SHA-256-Digest: SNYw6qLvtByrFXwWoqjUEmW+TlsfAmgGIv2F7Kjyjzw=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/RadarObject.class
+SHA-256-Digest: NC2sAx33VNjETglCRlEFABW48WP89w3ITZnxHHkr9vU=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/ScoreTable$HeaderCel
+ lRenderer.class
+SHA-256-Digest: yVHzc83gR2pjBBtH3ew0rx+uutXISrDwjBbaSqzePr0=
+
+Name: pictures/runway2b.gif
+SHA-256-Digest: jg4kvt/4bNZAJ3HLBKV6nM0j4N0hkUhOUQQ/62O9y1E=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/gui/ConsoleAdapter.c
+ lass
+SHA-256-Digest: RY+UQhLFO7bdOsC5r7n40BvHZYguocH7uEcvjnB0e64=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/JoinView$3.class
+SHA-256-Digest: 5tBRr6s3CLMG5//cxyyfA8KB34JRTPUfxE8W4+W2QOw=
+
+Name: com/aapeli/multiplayer/client/session/chat/ChatScreen.class
+SHA-256-Digest: Gt204IMBfK69RSY3O29nLSQRz2Eu0wozuyi2J06/G9Q=
+
+Name: com/aapeli/multiplayer/client/session/chat/ChatSession.class
+SHA-256-Digest: FJgr+t4EJByV2+ijFhz/sMDV0c9jrnSRtyQKAaNrL3M=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/View.class
+SHA-256-Digest: L6+IRq5i3Z+tHL4iU+7FQIX7X3PSXNAlOop7Kjptmhk=
+
+Name: com/aapeli/multiplayer/util/TableSorter$SortableHeaderRenderer.c
+ lass
+SHA-256-Digest: fMOOjuci6D82ZJ2HVfmwDtrQWLmUuC0Jgomv53swKXQ=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/Drawable.class
+SHA-256-Digest: jSxEJiIOOWtRa+vFX7y37Nnew/58aAX54YGWy34f2oE=
+
+Name: pictures/parachuter2.gif
+SHA-256-Digest: Qzn+eFzQaRLBq7UOPcC6bkLH19d8y+Htcy+1vm8emqY=
+
+Name: pictures/germanflag_small.gif
+SHA-256-Digest: 81alCCoK4cy4VkuTjLxF4442mLpFyl6xQ9p3sGE6PSM=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/ScoreTable$CustomCel
+ lComparator.class
+SHA-256-Digest: RYyJok4QLAqlkk4K8UH4UOo8rgjBMkm2o6Ul8VOl5mg=
+
+Name: pictures/flag_raf_2.gif
+SHA-256-Digest: 2XkKSgGPZNW4RAeSnUK1SaCahe04gymXfUAFcqwVUBc=
+
+Name: pictures/plane5.gif
+SHA-256-Digest: PPzENvHUmnTTotntFdmuChnGCyeZYIujEb0CBxu5Mzo=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/DogfightToolkit.clas
+ s
+SHA-256-Digest: z4XJLuJIXS2V+YCUtoR1WutGqV5MOqXIKu0V4SNodUA=
+
+Name: pictures/pic_plane4.gif
+SHA-256-Digest: p4l3pOSSG+JA7ESGXmXC99nPRSA05yyi+nMp9Ce2KRE=
+
+Name: pictures/germanflag.jpg
+SHA-256-Digest: +KpG8FMcoMn1HW2rXe96qebJTgC9TyCWnNOsmWrImgw=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/View$6.class
+SHA-256-Digest: cjCo0XOM6xagM4mGX0/GjInXz2wXzu159z5oduirL6Q=
+
+Name: com/aapeli/multiplayer/client/session/login/LoginScreen.class
+SHA-256-Digest: E+J4EBuQUAKeqthnkwtzArVsbhvr8kJddiV++6AVk8k=
+
+Name: pictures/plane4_flip2.gif
+SHA-256-Digest: GVb13PKpg58VV1BKJldMu5L3qjM+vkUPzhN4Iq7qWq8=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/PlayerInfo.
+ class
+SHA-256-Digest: aPDR37PnCOwn4ojGpz8x50JEFg5j6NkkIGOTzEhgcII=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/CreatePane.class
+SHA-256-Digest: WjKq7j/QGXoMCbyIOCbH/9UwUoYsRoP7v/Bfbn6TUA8=
+
+Name: com/aapeli/multiplayer/client/session/chat/ChatSession$2.class
+SHA-256-Digest: vF3Th90H1eUMW3JwYNKK0oIiwqeKZEYxY2azGJP8d1U=
+
+Name: com/aapeli/multiplayer/client/session/login/LoginScreen$2.class
+SHA-256-Digest: r2IE+gakSfQTjWacufWD1OLhSzJ3jrdl8d0bzAoNyhE=
+
+Name: com/aapeli/multiplayer/impl/dogfight/common/WorldInfoConstants.c
+ lass
+SHA-256-Digest: Vu5U68x9ZOOhshi9Bi24HelQoQE0TE3nTTGheoOQ9tw=
+
+Name: com/aapeli/multiplayer/client/session/game/gui/ChatField$1.class
+SHA-256-Digest: J8HsHxVuQO6D1mkDn/yVsVx23ksQ1lejNKhe//7kOfs=
+
+Name: com/aapeli/multiplayer/client/session/game/SyncBuffer.class
+SHA-256-Digest: pVmb4p+E/IwXQN5Is5mXXBFRwvcKC+C4NzshBCyk9CQ=
+
+Name: com/aapeli/multiplayer/util/TrafficShaper.class
+SHA-256-Digest: OdsclDDAPr98cFUVWqPCDDc+nc4OZhIPNoQfhI1VXM0=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/View$3.class
+SHA-256-Digest: YIlZx57T4gWMGrJjIMj2UfsmYA7Rurwk6I0pvAHxodo=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/Plane.class
+SHA-256-Digest: T7NbsOwXkCeSghSX0jkMJDTIr7nmfLinIz4RtZQkvRM=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/GfxSurface$DrawPair.
+ class
+SHA-256-Digest: 1O7u3yfiktibEt7uYUxdXv+KB1s0lqI0ALQ1Dk1g1Uo=
+
+Name: pictures/parachuter0.gif
+SHA-256-Digest: 9cow8E4Bq3LO1xsl+Tb11IZQgRQxcqZYPiNxFbb0A0o=
+
+Name: com/aapeli/multiplayer/client/session/game/gui/AbstractChatEdito
+ rPane.class
+SHA-256-Digest: tA/D48kvrvtESxT4HzNHRyr5v1NkfTc2qROKSVh6Ewc=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/ScoreTable$2.class
+SHA-256-Digest: Iqzx+SAWVw4eaeyqtUQMTkNd9ITkUCZRao0AoosEAOs=
+
+Name: com/aapeli/multiplayer/common/event/MouseEventTranslator.class
+SHA-256-Digest: WlDrVlIGpHWeEeMjA7V+r4nTOf++p9qHC6GktcoIgAg=
+
+Name: com/aapeli/multiplayer/util/TableSorter$Directive.class
+SHA-256-Digest: 3W5SOIN0doGjGbzeT2dwq9RobKpasMGkP9jHiJLiExo=
+
+Name: com/aapeli/multiplayer/client/session/game/gui/ChatEditorKit$Out
+ linedView.class
+SHA-256-Digest: CrNERzfJEQ3JesEC1S/n7HitVZr2dv9Y56Sz4tzaaoA=
+
+Name: com/aapeli/multiplayer/client/session/game/GameSession.class
+SHA-256-Digest: HdBNaFUE92470GGT5Ud034FvypUAqC64Kkre3Uj915g=
+
+Name: pictures/carrybomb.gif
+SHA-256-Digest: xm80YDAUKdLRHDrHkxJ+yIW5zc7RaO7JLF21JUh566o=
+
+Name: com/aapeli/multiplayer/common/monitor/Monitorable.class
+SHA-256-Digest: FOJX373MKbonuZ5pWJLNTxQFWcc5CgoNB1lt7llA+M4=
+
+Name: pictures/explosion0004.gif
+SHA-256-Digest: xYUhXeBTvhj9wslPnWukVOgRgQEsrL3xpl8Sq87va9A=
+
+Name: com/aapeli/multiplayer/impl/dogfight/common/PlaneChooserConstant
+ s.class
+SHA-256-Digest: wqotVBPrORRYEUMFeIQ8h0xS6Qks3PRuxR7OBRRGrHc=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/TeamColors.class
+SHA-256-Digest: +5Kyd6eQA4yWaAZeONgRhfVGYF/I9mW70DYRDFeo+LA=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/Flag.class
+SHA-256-Digest: vr/utmzYOd9vhoy0hOh7YUA1/p3+ZMzfRc+BGV4P5G4=
+
+Name: com/aapeli/multiplayer/client/session/chat/create/LimitedTextFie
+ ld.class
+SHA-256-Digest: z8ALB/o1cugWxiLoYF59O67BtfQd9N76LCN/729K/IU=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/Intermissio
+ nSplash.class
+SHA-256-Digest: E32I4RDA2SK1yTIQdmNPYV85wLwldMf+jWu8BIg1A7o=
+
+Name: pictures/wave-l_5.gif
+SHA-256-Digest: e0apuvEHiV5adZRzSBDoQjzn+oQlRDRBHxhmugTw6aQ=
+
+Name: pictures/runway_broke.gif
+SHA-256-Digest: GZQraF22bF5jc4MLwoOux/6ENshy6i1ugYyz+dOI6eM=
+
+Name: com/aapeli/multiplayer/util/console/ConsoleField.class
+SHA-256-Digest: FToO3i6j/icqV+ktG/I3SikBAFOaYmgEFq3NjUUBA2I=
+
+Name: com/aapeli/multiplayer/client/session/error/ErrorScreen.class
+SHA-256-Digest: Td3mCkA3HnrhYjGE4c68AnRmbmlyGn208QQHpjnFchs=
+
+Name: com/aapeli/multiplayer/util/console/ConsoleListener.class
+SHA-256-Digest: KB50yS3/TP4cHIQWgHMgtLKsCZy5flgvBYdrEli8poY=
+
+Name: com/aapeli/multiplayer/client/session/chat/create/LabelledComboB
+ ox.class
+SHA-256-Digest: E1eb7xBHVMTpYfbcrilS06U87rWwGZPNsDaU7LsXhtM=
+
+Name: com/aapeli/multiplayer/client/session/chat/AbstractBox.class
+SHA-256-Digest: k2Y3ePQa1lagiH6Eq0satokrUAm5xmDILyT1gIRMbO8=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/BackgroundI
+ tem.class
+SHA-256-Digest: GEaRNSRXAGWI1mdxnuq/kGisoTanXD8VVVaRSY4plXA=
+
+Name: pictures/wave-l_4.gif
+SHA-256-Digest: Gy39xVoDrninMNUpH0DwYNVPsfptsAOZlRnPqXq8sI0=
+
+Name: com/aapeli/multiplayer/util/ban/BanManager.class
+SHA-256-Digest: qxnF3D07yYT32p2QX2KhJF57fBfc4tyCLiyTqGqAyL0=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/Man.class
+SHA-256-Digest: WNiq/a7AN+Rfr9m8yDoGub2IzG9HTcxD949oQh5JKjQ=
+
+Name: com/aapeli/multiplayer/client/session/chat/create/LabelledTextAr
+ ea$1.class
+SHA-256-Digest: Qg+3hS6s+Ubzy/CRHvb5vCnjgDnyBd8QbM15NYdzNqQ=
+
+Name: com/aapeli/multiplayer/client/session/chat/ChatScreen$1.class
+SHA-256-Digest: fSYg8g5CD6QOmu1GcBBkLlmLBTkVjeTawmCLAlBGQ74=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/TeamInfo.cl
+ ass
+SHA-256-Digest: LqlLQT+IId4tergkqnZYcqN7ZwlOd2eFQMeBXLPY904=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/ScoreTable$ImageCell
+ .class
+SHA-256-Digest: qDW+UW4CURqKKZl1AHxTIAPgxRjjCdwGIgzQEkgg0NM=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/gui/KillArea.class
+SHA-256-Digest: EecgHvw3ODmWljuhPfHyeMMwZJw6BgvgThLypVXs/1w=
+
+Name: pictures/runway.gif
+SHA-256-Digest: PfSOPeC6adx6hUf+U6zPpx7Y1xFP7SdV13Wxv+zXdKc=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/StatsSurface.class
+SHA-256-Digest: Th5JVpwxeUe2qxezZMLkKgrhGq/wo25CZXBaKITZEiw=
+
+Name: sounds/explosion.au
+SHA-256-Digest: Sr67Wthxsa74Ai1ilQlg3BO7i/IpxBc/DkHneOaqarw=
+
+Name: com/aapeli/multiplayer/util/console/Console$1.class
+SHA-256-Digest: MK7sw5pqorMRwjrYbxQBdqh7ietSU4rKk71fZI7lB0M=
+
+Name: com/aapeli/multiplayer/client/session/login/LoginScreen$3.class
+SHA-256-Digest: KRLuuWRVCriwTgA5wRyUYHw2tBk7R3O9c0r2VFi95Qo=
+
+Name: com/aapeli/multiplayer/common/Utils.class
+SHA-256-Digest: YH51vzyKoVZCXnofSoIFVnwxNuOxb4iUfHnHv4Ythjw=
+
+Name: com/aapeli/shared/UserListItem.class
+SHA-256-Digest: J/cWU9N4MzD4oQY/rvkvdu+CmqZC6gNjNWnGrajQTxo=
+
+Name: com/aapeli/shared/ColorListDItem.class
+SHA-256-Digest: SUbh3m7WsPygBQQXAjjhP6zRwMMZ7oMWnYZ55FxOoKg=
+
+Name: pictures/beach-r_desert.gif
+SHA-256-Digest: +4uV4vRSL8K+qsR9nfP60QmExn3r6QkMrrNygKi3mv4=
+
+Name: pictures/plane_big.gif
+SHA-256-Digest: 9wYC6IEWRtbQH5OPUwOBEVVY6PIUyQ3m1ckHntvp4mY=
+
+Name: pictures/randomflag_small.gif
+SHA-256-Digest: mCdF+C3USxMLFENSE0abxDwKu8pcVei3zP+EDowYZQc=
+
+Name: com/aapeli/multiplayer/client/session/chat/create/OptionList.cla
+ ss
+SHA-256-Digest: Q3KRljVSi8aEaeTJz6+FZhK/CMkf5QzmFLDJTMh+UFA=
+
+Name: com/aapeli/multiplayer/util/TableSorter$MouseHandler.class
+SHA-256-Digest: 7NjGVdZDFeB64UOovJXWaAfPCiksIe7SgMBay+YeVzo=
+
+Name: com/aapeli/multiplayer/client/session/chat/create/RoomTimePanel$
+ 1.class
+SHA-256-Digest: HEWNsBEu6kICzjArFTMaL++MpVBdvGHMjZGtF8yP6Sw=
+
+Name: pictures/controlTower.gif
+SHA-256-Digest: TqhIWoN//QH2AKphXPXVv6VCxHNFh5q1h0NPXwi3k6Y=
+
+Name: pictures/randomflag.jpg
+SHA-256-Digest: 8pbD3oi8Q3WyZmr715ZvTR0FM2CIXpCBb+NFK8an/Sw=
+
+Name: com/aapeli/multiplayer/impl/dogfight/common/BigInfoConstants.cla
+ ss
+SHA-256-Digest: G9Fy6yHNMTi8ELjFuL6biyiyw2UbsbgRYNfB0L9hknk=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/ScoreTable$TextCell.
+ class
+SHA-256-Digest: KeUZznenAh9Rl13/RH20NQ2enux5ksQOIlUSIAUHPeE=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/Bomb.class
+SHA-256-Digest: pELLuqUzq9MMttyGVSmkJI4NgtrI7GNF69lYVWbnF/s=
+
+Name: com/aapeli/multiplayer/common/network/DataInputPacket.class
+SHA-256-Digest: RNea2VL4C/y7kaOa0mr1UZ1C4wPwhGKsVP5aln1UxCg=
+
+Name: com/aapeli/multiplayer/client/session/game/gui/ChatDecorator.cla
+ ss
+SHA-256-Digest: aAKYZjQqaBtaf4OiQM16K5B9uszDMTeUTVcNcBw7hlo=
+
+Name: pictures/plane9_flip2.gif
+SHA-256-Digest: pzZjJlZqAfpGQPhhpLcj9CCzwldlOYP9mi1KVzcZNsg=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/View$5.class
+SHA-256-Digest: YjHK+YlvGzfMDKG1Xw4/dmRP9WmwLcyz9WRfa9dtI+s=
+
+Name: pictures/explosion0008.gif
+SHA-256-Digest: eL89UdagDnWj3nKExLEthQ+sciW1npebDg12fczMwL0=
+
+Name: pictures/pic_plane8.gif
+SHA-256-Digest: dEADXpeZ+UJHVlw2ut4gLFFw+Ucxx80cLe6nQtUABJk=
+
+Name: com/aapeli/multiplayer/client/session/ClientSessionManager.class
+SHA-256-Digest: BZhiSXfNx9CNXxMwCQ+09dmnZUA/G6QMJDfmZ5smsrc=
+
+Name: com/aapeli/multiplayer/common/network/CreditConverter.class
+SHA-256-Digest: g+tpXa4qPnxSDtvjLZaRLXp2ejyg+D8m+qArlX/HE9s=
+
+Name: com/aapeli/multiplayer/client/session/chat/ChatSession$1.class
+SHA-256-Digest: LhgTLMriAFH26JMzQgYkYTG2Yjs7fVcszTO1sYg/wD8=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/DogfightEntity.class
+SHA-256-Digest: It/vA/EgQvbcUV1XF3xaFn9WpC7+Js6gkv3wjVSswLE=
+
+Name: pictures/bullet.gif
+SHA-256-Digest: DgFnh+U4qF0NF5zhPeYFTS83YFf3pK/i37psEU7qhvg=
+
+Name: com/aapeli/multiplayer/client/network/ConnectionMaker.class
+SHA-256-Digest: 8kYLVsLHCX9Y98QonVVB/MYykt5Te0fgHILhxLon1Hw=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/BlinkButtonUI.cl
+ ass
+SHA-256-Digest: K4SIk2+WkY5XKN1FFGR45VRmtaLXo0GZlPUwraiAJuc=
+
+Name: com/aapeli/multiplayer/client/session/game/InputEncoder.class
+SHA-256-Digest: jL+NbGWBZskd6+Tw97fDiqPpXVRwlufDZcWcP78R9fE=
+
+Name: com/aapeli/multiplayer/client/session/chat/create/LabelledTextAr
+ ea.class
+SHA-256-Digest: 2gcVJjkZsQczShEKhyz0UnlqvrBWHfjF0lLhquPbMcc=
+
+Name: pictures/man_icon.gif
+SHA-256-Digest: B1JOLI0WQM0fyxbwfJ4hL6Cp1PMopEIgb9JwBzqOCME=
+
+Name: com/aapeli/multiplayer/impl/dogfight/common/Version.class
+SHA-256-Digest: znde7BmKBehuK5tlXYaxfXFyEf9h1puhppctQPbBgRc=
+
+Name: pictures/plane8_flip2.gif
+SHA-256-Digest: oXfojK9iL7pWv6gLgWWbyznaT92rcJq93A+S8H/YKNU=
+
+Name: pictures/parachuter1.gif
+SHA-256-Digest: vMjAhnBO3w2ldQ8Dmb3LD0X9HcKLfVkM86cO7BZasx0=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/Runway.clas
+ s
+SHA-256-Digest: i0co0SBLZUw6/HoynuvVvi/utf4RltOh2oeN1ejWmbQ=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/BlackSmoke.
+ class
+SHA-256-Digest: HepkM23hCf50MlWikRNPf+UYZcgQJTS2D3KP+5Zh0f8=
+
+Name: com/aapeli/multiplayer/impl/dogfight/common/TypeTable.class
+SHA-256-Digest: n9T7FwNdamAnEOGskYQ3gYCub0WqtGf/LAQnlkbzF1c=
+
+Name: com/aapeli/multiplayer/util/ImageUtils.class
+SHA-256-Digest: sDix6QHZErTs+Vm6QoFbkW6xTtP6fBKVxI6k/MOZzDM=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/ChallengeView$3.
+ class
+SHA-256-Digest: F7cl/VWscaZUuhmEgaaHf3B6Y6xFmtaq/MPCyYGcfhw=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/Water.class
+SHA-256-Digest: PWK9LlF2/h0TAG9lQoh7wAEQVVDP1eKIpArSAChlmNw=
+
+Name: com/aapeli/multiplayer/client/session/chat/LoadingBar.class
+SHA-256-Digest: 8Sv4L8GVbY1Ghr9hupDKt5tSGq5k+1bNCLYgV+6Sy40=
+
+Name: com/aapeli/multiplayer/client/session/chat/LoadingBox.class
+SHA-256-Digest: X43Iz7ZM7wtHB1T6p70AtuIIKfHkIUUvEsDZv91cHCQ=
+
+Name: com/aapeli/multiplayer/client/session/game/EncodedEventListener.
+ class
+SHA-256-Digest: 3SoHGR8/IpIUGzgjg4O5nDM6lZA2Y9Tv+1lVvOILuFY=
+
+Name: com/aapeli/shared/ColorCheckbox.class
+SHA-256-Digest: 02b2W11A/+o3giDZ5xS8NVb5aD1l0SUbNEfoUu4T4Y0=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/DrawableEnt
+ ity.class
+SHA-256-Digest: gDq2MsOtU9KbQyv/uuUDu5YSZhCw9WALeEAIMnMnBGs=
+
+Name: com/aapeli/multiplayer/util/ban/Ban.class
+SHA-256-Digest: emb/3pvvoi5XRmxftfBaowee9UJALaxGH+IqgBpIv+0=
+
+Name: pictures/woodpanel.jpg
+SHA-256-Digest: MVeb/1hSBit4CHzUJjErCwCaHASfFOXiE1OgW/2QMKM=
+
+Name: com/aapeli/multiplayer/common/chat/ChatUser.class
+SHA-256-Digest: 0RzVeAG6cfPW8ZBAx1j4Jk/nl4msFvDzQKOpYKfEVZc=
+
+Name: com/aapeli/multiplayer/client/resources/Loadable.class
+SHA-256-Digest: xe9LQbwdsmkXsY7/eUdG7RwRqiWx2k9GLEh+ubu5a6M=
+
+Name: com/aapeli/multiplayer/client/session/chat/create/CustomValuesCo
+ mboBox.class
+SHA-256-Digest: v7hkEk211II/3VyYmnvCl9jifExOAc2nWT42tUObNEQ=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/View$7.class
+SHA-256-Digest: +7kzEPAbjJQ2iP3TvzgXEzJ2KdrYCb106fD3m6Hnv/A=
+
+Name: com/aapeli/multiplayer/util/DuplicatedMap.class
+SHA-256-Digest: mzEr6w5xBDu/wayfzqxu4H431er4LAUNhTFEbE0PIKo=
+
+Name: com/aapeli/multiplayer/impl/dogfight/common/PlayerInfoConstants.
+ class
+SHA-256-Digest: QDhFLMH7y1paAgjFBofJfOsv+yuA5wjsrDoDavPqnj8=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/Explosion.c
+ lass
+SHA-256-Digest: eUd4O5ydkoi24j4QIsioLeX1lnKqdy5r+Z50d5sNtjI=
+
+Name: com/aapeli/multiplayer/common/network/LoginProtocol.class
+SHA-256-Digest: TyiUfS8oA2/ksGPxo7oQTIbteKDcrz8mSysyZfYqy+g=
+
+Name: com/aapeli/multiplayer/client/session/game/implInterface/Game.cl
+ ass
+SHA-256-Digest: HmEPN1AEg/sxzWaJ8mzodSMfwme0bqHUK4/AiNPLqw0=
+
+Name: com/aapeli/multiplayer/client/network/Connection.class
+SHA-256-Digest: Dw+k08xSY3wQLtXHW0td3KkpgN/5qwAfSYMszc+3hVk=
+
+Name: com/aapeli/multiplayer/client/session/game/gui/OutlinedLabelUI.c
+ lass
+SHA-256-Digest: ixWjy6tnwRCG7amAhxk80gk913shvkYmoH79rEy55iQ=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/SalmsonPlan
+ e.class
+SHA-256-Digest: Yzl0eJpDWkBJb10LeeJvr/sG1PEpkJqUlhEVtPcWCAc=
+
+Name: pictures/info_box.gif
+SHA-256-Digest: zrkyqaZyhrZ8zL0Lff1czahZt33ihFzPt1JVeW8F3e0=
+
+Name: pictures/headquarter_germans.gif
+SHA-256-Digest: TVmq9ntIyLr6iLI0DM757ieQBuMbH7zt1RXB8wtNlGc=
+
+Name: com/aapeli/multiplayer/util/console/ConsoleValue.class
+SHA-256-Digest: Rih7+8LnOv2xQH7P/IU3p1M7CGlDjp3U4wOagU3EVxY=
+
+Name: pictures/flag_raf_1.gif
+SHA-256-Digest: SxAbtIvyzES+6Hpx2drOgIh+YrzzX61ZVzdD2Y4lfnc=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/Hill.class
+SHA-256-Digest: 72Ql9btHZDBEBMDVYX6b9sr+XD4TdPC8YRJIPhpFEBY=
+
+Name: com/aapeli/multiplayer/common/Version.class
+SHA-256-Digest: dd6TWuUFpMjoUPYJPuqr6VyM+H+CuWt+vGjXmVTv8XE=
+
+Name: pictures/headquarter_raf.gif
+SHA-256-Digest: OdYUoDMV2V2YGu+mGHSkwp+S4a4tRC419hcr7LBCZ+Q=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/Smoke.class
+SHA-256-Digest: mC8WIMWhYlGBx9MlhWkd0WhsyDKGxSI985/bbkRFVjc=
+
+Name: pictures/selectionScreen.gif
+SHA-256-Digest: QiVmSeB9DVe+UP92ATwJ41z1UbVvzlZaptNju229RWk=
+
+Name: pictures/plane8.gif
+SHA-256-Digest: WxUmK5uXixZTUJkF2wMlU6EiXYmFWHVhPpbKaAtqeUs=
+
+Name: pictures/hill1.gif
+SHA-256-Digest: QVV8CSH/nW8ov7499+9kmgHzew1jyPCFcx3l1pbjaRM=
+
+Name: com/aapeli/multiplayer/util/TableSorter$1.class
+SHA-256-Digest: B/lqxvADYMKZLirwLPEpc0cnlTtY5ok+G+svmJ+hxQ0=
+
+Name: pictures/explosion0003.gif
+SHA-256-Digest: H++oOCMUjXszoZRQ09smN8DP5AHUTJHnFu7F8RgQRig=
+
+Name: com/aapeli/multiplayer/client/session/game/gui/ChatArea.class
+SHA-256-Digest: Qaw8bSlgYCs6TibGp5mhX7TqUgadjKD2WmNie71oI6I=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/CreateView.class
+SHA-256-Digest: NVxKS7bM2e3WE7CB8oJUnnxbqANtoKWC6JdnG0TgJJI=
+
+Name: com/aapeli/shared/ColorTextArea.class
+SHA-256-Digest: CslXOCHdtDSKVmvMwBB7wEa/eU9QJbHWwJSovC3CZaA=
+
+Name: pictures/pic_plane5.gif
+SHA-256-Digest: oId0Bp6cvS1/1rqxO8BEMLxUDbG9mTRryKsMKLU5rjU=
+
+Name: com/aapeli/multiplayer/client/session/game/implInterface/Entity.
+ class
+SHA-256-Digest: /ZyZe13I5V6rhHBUKsoxI4ZKFbxfFfH0WttlO2NgrJo=
+
+Name: pictures/plane7_flip2.gif
+SHA-256-Digest: G++Y/KLtMrKlaFUwr/DTURW1eu24/wXtSpQteIN/78s=
+
+Name: com/aapeli/multiplayer/client/network/ClientEntity.class
+SHA-256-Digest: 435sv2cxSb/uy5fDO4OBOY56zV3fz3Cyx8sfoQj63H4=
+
+Name: com/aapeli/multiplayer/client/session/login/LoginScreen$1.class
+SHA-256-Digest: THZwmpcKJAVDdEMlBTra+0fDoNq4OxRJ1EvLpqhiG4M=
+
+Name: com/aapeli/multiplayer/client/session/error/ErrorSession.class
+SHA-256-Digest: /H7oGgRg22DCndC4c+EvyH7k2se3eS6h4D3Y708lLNU=
+
+Name: pictures/smoke1.gif
+SHA-256-Digest: /f7TjzIF9BYJjUuQsjJbQXElxoxAxHVko+xDNTVxdPo=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/GfxSurface.class
+SHA-256-Digest: UjpADk/kXCkzG/nAVbdYKzZ+dQr4nzKdZLIsMDcSoog=
+
+Name: com/aapeli/multiplayer/client/session/login/LoginSession.class
+SHA-256-Digest: Y3mszlbqWDqv+AXKYGv4XB/sphKOnOFH3XM+ZTiIWQk=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/TeamChooser
+ .class
+SHA-256-Digest: nxKmNKAUd8orJ2QBm+DOLSFQ+BXg1cRdQZcbtP5NzrU=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/MainScreen.class
+SHA-256-Digest: 5hypfuIw06ecpI3Ereud/XxR6PXZb2ZWgCqaB1bUxoo=
+
+Name: com/aapeli/multiplayer/util/TableSorter$Row.class
+SHA-256-Digest: +qilZCr4CafByjwwxuW3VNdnXRWA7JNDxJo667/defA=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/View$1.class
+SHA-256-Digest: NmZxtNMgm4fxwfC6/AAkTTPrZCU7FwZZIABfvllhpzo=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/Clock.class
+SHA-256-Digest: ikklPR3hGRECLl29zE4eKW5WVNHWbIAP6J2FI6rzs0A=
+
+Name: com/aapeli/multiplayer/common/network/CreditConstants.class
+SHA-256-Digest: W2H3qcZzIXNaXPrBSHy/6QNibLnap4aEppr28WJHewk=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/ManageView.class
+SHA-256-Digest: +yLvG3qLfChfDNRVMI1UmDxZB6HRQs//HRRGgJiV4EY=
+
+Name: pictures/flag_ger_1.gif
+SHA-256-Digest: cA9ynWUcWfdONSyh82o34Oz8VvFBXSQK2agGngKD4i4=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/JoinView.class
+SHA-256-Digest: tf7RldaKKSfrrOYupxI4ZPKch4ElvIvCuhWaS2kLJNk=
+
+Name: com/aapeli/multiplayer/client/session/game/gui/ChatEditorKit$Adv
+ ancedViewFactory.class
+SHA-256-Digest: 3tQ7Nn09yFjzDY68QIgu/H02Pb7bog3CAzRKZbaDhZ8=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/PlaneChoose
+ r.class
+SHA-256-Digest: bPafSUf16Zg9BREBMfP7k1wzopT2QZx6FsWEqJMlJGY=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/View$8.class
+SHA-256-Digest: qbaKD8cgD6w5M8CUkk9oEFsX5L85SPGG6jEyntk+AI8=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/ChallengeView.cl
+ ass
+SHA-256-Digest: PY6g6j6kyLgy4FtzsvtiUce8UCwz1AY2pZx2ppwxRDY=
+
+Name: com/aapeli/multiplayer/impl/dogfight/common/BulletEngine.class
+SHA-256-Digest: UgKO5tg9lWoWYCk+9hrVV7v57ri7YRyVUm1fk+FSGxo=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/View$2.class
+SHA-256-Digest: 7i7HH77jBemKuB0EHD+h62yoCKzp7mowoWfxk/bawAY=
+
+Name: com/aapeli/shared/Common.class
+SHA-256-Digest: XzfKrhTRWPcIRL6bg0Kmri6PvqRz7p6oE2Y47EN6/Dw=
+
+Name: com/aapeli/multiplayer/common/monitor/ThreadMonitor.class
+SHA-256-Digest: sY1Y9GCJaXdm2AuTo4iq0GZKcHd4WpfNd/bx2o1j924=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/ScoreTable$1.class
+SHA-256-Digest: c3JM96qHSwE9a3qtGxMluYI205sDSgOdZeVjix7qPcw=
+
+Name: pictures/plane5_flip2.gif
+SHA-256-Digest: 6zhbM2RJWUYCfnwLO3CtIdbTeq+mKku+sDflaW5tJk0=
+
+Name: pictures/wave-l_1.gif
+SHA-256-Digest: IuViQP5M2fLPFtBnZ/rI91oB13BwzeuABCE5aJJwHQA=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/ManageView$3.cla
+ ss
+SHA-256-Digest: XYg0kLWgtPZ/yIqALmANZVeSE++y+mD4rODTSCoZWOA=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/FokkerPlane
+ .class
+SHA-256-Digest: q428njiqXENEYoPkAbjsoR03gxZDyACyXOOWtvzLOdQ=
+
+Name: com/aapeli/multiplayer/util/TableSorter$2.class
+SHA-256-Digest: J3fjesYpiVYTxqLnXkpsbvnXhbNmTT5psRSXIjy7K1Q=
+
+Name: pictures/metalpanel.jpg
+SHA-256-Digest: VDktf5u1UsRmUldbQGeo80SDU90EdWIIbyiPirlrMq0=
+
+Name: com/aapeli/multiplayer/util/TableSorter$TableModelHandler.class
+SHA-256-Digest: KIMu2VU5SnU33vC7A+uLyK1qjUFpE3hO4zSXpEsYSms=
+
+Name: com/aapeli/multiplayer/util/TimeQueue.class
+SHA-256-Digest: JcKltpSxlgqdprLQusqIsMx95hrauen3dqLO/kMXND0=
+
+Name: pictures/plane4.gif
+SHA-256-Digest: oX/X+SiPG72MZZm4GUoHqohOmAMYdH4+4bvUkifTbCM=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/BigInfo.cla
+ ss
+SHA-256-Digest: /zrIFvgXCYkFYxUTAxZEzPh8ZasLHMxPowmXRtFX58M=
+
+Name: pictures/plane9_flip1.gif
+SHA-256-Digest: aFod8rTGdmhmmvvLyfOEjcIi95fg+QLhG2ut1+m6V2c=
+
+Name: pictures/pic_plane9.gif
+SHA-256-Digest: qXi2ifGnOWtMZOfsL/sFM0HZVxjmHNYAUvXZHj39alw=
+
+Name: pictures/explosion0007.gif
+SHA-256-Digest: Vjd3L2oJ5Xre/zHSZ4f7UF8RTOGFDjBZtXOkI5Y+D3w=
+
+Name: com/aapeli/shared/ColorButton.class
+SHA-256-Digest: QLPFlMY3Xpr3//HjcYS6ZfQgH0/cNLpgtX8tztXcdDo=
+
+Name: com/aapeli/multiplayer/util/TrafficShaper$LinkedDoubleElement.cl
+ ass
+SHA-256-Digest: HRk/yPvxK6yChwDzX+Ne/MVyxhUNfFoxXma+Zi+2bOE=
+
+Name: pictures/sky3b.jpg
+SHA-256-Digest: nNqFsrsCtJt+69ezsp32+/6SG3wgBs9CFwmJ9d5k3uw=
+
+Name: com/aapeli/multiplayer/client/session/game/GameToolkitImpl.class
+SHA-256-Digest: Q56QxjRlDKCiU8uj6fMtiwIf4nxPKofDM3Jkbywi134=
+
+Name: com/aapeli/multiplayer/impl/dogfight/common/TeamConstants.class
+SHA-256-Digest: vMEXMW/BgvlXO66nY+wWg1zBARyh3Z1Cg2xBXZvycWA=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/Followable.class
+SHA-256-Digest: /HKuHv+SBs1bDONRr4yNwjd2eGUdS66JQoQhgyL22Ic=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/GameScreen.class
+SHA-256-Digest: 4F0V6l21E+Bw1YBBba+7KdFcIjOt2ntfLWfsJtbCRGw=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/ChatView$1.class
+SHA-256-Digest: NMCdYgojqKxON61WeGtKhE7VSc+FydJ0dQWIJDZ9sU4=
+
+Name: pictures/plane_icon.gif
+SHA-256-Digest: aY1NOA8yHZJNEYW8rd4ymjC05gt/xdEelXbB1aC8Pso=
+
+Name: com/aapeli/multiplayer/client/session/game/SyncBuffer$BufferPack
+ et.class
+SHA-256-Digest: DekIqtE1I2B/wJUwdSVctPBUpGyG6AbvtSm5xuN1Tho=
+
+Name: com/aapeli/multiplayer/util/SimpleTimeQueue.class
+SHA-256-Digest: jAYc/cUORHlF4QBv1Lx0GhzgBIPxtaEqTsRXtNyv7SE=
+
+Name: com/aapeli/multiplayer/common/network/LimitedDataInputPacket.cla
+ ss
+SHA-256-Digest: tJLT6fpzN/ttr7MVFL3BnbENssyIAMXu5dNavqM5+FI=
+
+Name: com/aapeli/multiplayer/client/session/game/gui/ChatField$4.class
+SHA-256-Digest: bNyQnlyCsW4aM9wCRqQI+UdGquk1XJUe72YcJOJkuOs=
+
+Name: com/aapeli/multiplayer/util/TryableMutex.class
+SHA-256-Digest: uSiG7MeB3tEQMhcQ4ketUhEPSLKP60x+JgJpP2dWH+Y=
+
+Name: com/aapeli/multiplayer/client/common/GUIColors.class
+SHA-256-Digest: IuclD7wYj58vNjK5VbiOI+nVqqQgBJszUmJkOjen8Nk=
+
+Name: com/aapeli/multiplayer/client/session/chat/create/RoomTimePanel.
+ class
+SHA-256-Digest: 2d26bqXjTgLPhoKBHXE1s0aaBE+eeecBMpFZK7GTqY8=
+
+Name: pictures/droppedbomb.gif
+SHA-256-Digest: uyWVR0APRF7n4wDJLjehFekJDX5lbO63n2WRiCPiEaY=
+
+Name: sounds/m16.au
+SHA-256-Digest: zGdPoBNZKQ5yUTc2rljF9Blp5bNC3D7OCEwC93VNjyc=
+
+Name: com/aapeli/multiplayer/client/launcher/AbstractLauncher.class
+SHA-256-Digest: fhJWAbF0lLAKTsxlCGUtziKq8PzNelFQGjgklwhlvkk=
+
+Name: com/aapeli/multiplayer/client/session/game/gui/ChatField.class
+SHA-256-Digest: Re8u1+KFbC5m1pyMgqB4ha0RUSd4xMHmyDLut70uMGM=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/SopwithPlan
+ e.class
+SHA-256-Digest: DR8uy2X/EVZf6ev/axCrNOiG2fzqU8LKhTWi5+hRDn8=
+
+Name: pictures/ground1.gif
+SHA-256-Digest: yQEz2BBqak0Q3xIIYxdEHTJhEiS3jMh+6eBIa/PPg9U=
+
+Name: com/aapeli/multiplayer/client/session/chat/create/DescriptedComp
+ onent.class
+SHA-256-Digest: FYAz4qLNvoYEgK3TLw0nPHJ2lYjhgLX4By6MOnVT9jc=
+
+Name: Dogfight.class
+SHA-256-Digest: Mfm7byKjfkpfcD3vkzlSwQgNAqQm8IXH8Jwkcxin9NA=
+
+Name: pictures/plane8_flip1.gif
+SHA-256-Digest: pg6++l4jntWwWPBWmA6dY30KUh/G453qIu92B23JbMk=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/JoinView$CustomC
+ ellComparator.class
+SHA-256-Digest: Ej2AqrOSMIxCqTH7CA2rpNhKbrM/miGSm3SI8pDb48g=
+
+Name: com/aapeli/multiplayer/client/session/chat/Channel.class
+SHA-256-Digest: SL1hEwurMU6TEc1e97knsjVyPmtnYJN8OcFyTIWl1NI=
+
+Name: com/aapeli/multiplayer/client/session/game/GameSession$ResourceL
+ oader.class
+SHA-256-Digest: QFyHgkvJN4irM2YN7hG5K+Pl7pmWMxtGy65lyWqWBOY=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/BristolPlan
+ e.class
+SHA-256-Digest: nHPnSh3grBiZJ7V0t9J0EkVS0R7g3o8TujULcGPEOFY=
+
+Name: com/aapeli/multiplayer/client/resources/SoundSystem$MultiClip.cl
+ ass
+SHA-256-Digest: wHUwF/IkuEK82MD3/ARqb9R4ULos0KxqTkzGPJNO3cw=
+
+Name: pictures/flag_ger_2.gif
+SHA-256-Digest: xo5ODV8w83PytpmKjx62LYVWq04IxZfmA/0laizHMQc=
+
+Name: com/aapeli/multiplayer/client/session/chat/create/LimitedTextFie
+ ld$LimitedDocument.class
+SHA-256-Digest: U6v3YqcdDKpA4WsIxsPROVIOOc0Tv8H3hgGsXByOyfs=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/JunkersPlan
+ e.class
+SHA-256-Digest: /B+z+EgfR72W0yfwKRlkL9j4QDbTHe0VOpMoUihm+6o=
+
+Name: sounds/bombdrop.au
+SHA-256-Digest: d5j/kqG3tQfOBnZLhTelQp25AgBgyqgZRP69t6a14Zw=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/ChallengeView$2.
+ class
+SHA-256-Digest: IBryutiF6+iTuyErX4Zq/ALy9yB7rrnAT6365CYIUAg=
+
+Name: pictures/sandhill.gif
+SHA-256-Digest: nqoZkHe0IWDWsqt9rM02P1s+7hb1Jkwbj4kJJRdyBI0=
+
+Name: pictures/plane7.gif
+SHA-256-Digest: jmr4IfAdYOFHRwXkmwcJbtkuA/qpraNmq8cfDBV+50g=
+
+Name: pictures/pic_plane6.gif
+SHA-256-Digest: nh+aArvhIT80q4dk8T4Y5JnR290dUJYRSRZdnSU6ZqY=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/ChallengeView$5.
+ class
+SHA-256-Digest: MvnNEsmrBkQlGRAvKtDGJoY3kxrtig0lKAosKzdgQys=
+
+Name: pictures/plane7_flip1.gif
+SHA-256-Digest: MthPALX1WPxv0oY+8HzCHgmoMRlKTAdk6zRmsaX7vlk=
+
+Name: pictures/explosion0002.gif
+SHA-256-Digest: 3d68SDZJW9lZ8enfuXx2qHa3OtQM62pjeoFL+tEds70=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/JoinView$1.class
+SHA-256-Digest: T04wmKveIku9fPT7xjmZmshQOBXZu52WponRCMMyhbE=
+
+Name: com/aapeli/multiplayer/client/session/game/GameToolkitListener.c
+ lass
+SHA-256-Digest: jWkO/0Fda3SjBowDgYzKUC7csFb41hxxSjjiQ5zEJU4=
+
+Name: com/aapeli/multiplayer/impl/dogfight/common/RespawnerConstants.c
+ lass
+SHA-256-Digest: 48cLwXgwnyE63Ji5fJtB9fVXqVWLchRhoWCu40RxsmI=
+
+Name: com/aapeli/multiplayer/client/session/chat/NotifyBox.class
+SHA-256-Digest: C6SmB8lIvvLM5IohXHOCUAuU12U1/vrp/hTI7xUo1cU=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/ChatView.class
+SHA-256-Digest: DYyS8Xm9pGzCCh1CYpY/JS814spdmqHkcpBwzBD6HwI=
+
+Name: com/aapeli/multiplayer/client/session/chat/create/ModifiableList
+ $HireListener.class
+SHA-256-Digest: HO9BB52v056z1QLaEVApq/CKJsDCaV3+Rk8qpZKCsXg=
+
+Name: com/aapeli/multiplayer/common/network/DataOutputPacket.class
+SHA-256-Digest: 1xd+mLqBJN/mo1PPjebf1THOn0j4/gTeAJ1mUlVw8F0=
+
+Name: com/aapeli/shared/UserList.class
+SHA-256-Digest: 5PrcHc5pzZVWJrFLqqr1bEZfj9R5e3IrUFqOum9wAuE=
+
+Name: com/aapeli/multiplayer/client/resources/SoundSystem.class
+SHA-256-Digest: zsGT3DZ9J5BFbePLob5tQqNkyuE9osP/nGzkz496xbw=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/ScoreTable$ColoredCe
+ ll.class
+SHA-256-Digest: KoQpPvtUOUMkQsKaOsFHLs3nT6t1vj2kEAupVj/8Qt0=
+
+Name: pictures/smoke2.gif
+SHA-256-Digest: 9sRylhnyAMMJmxgXshfDgH0ENRrxL83rls3J+/aFzdM=
+
+Name: pictures/explosion0006.gif
+SHA-256-Digest: 4yC3Bs3bItGlUaAbjBxxBAa955k2R7fMY5XYDB5ezQc=
+
+Name: com/aapeli/multiplayer/common/event/TextListener.class
+SHA-256-Digest: qU4xFGq35XJCWccffF/NDC52nd1MqEUpXh/gxQ1FVkY=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/CreateView$2.cla
+ ss
+SHA-256-Digest: evat7tRSqPBkNqjvfKvgZE8FXuj7VyJeNqmpLS8UwcY=
+
+Name: pictures/bomb.gif
+SHA-256-Digest: 4VaJAmhYVzL5l251sLZaYsS0mIeGBxg06cn04jAnG80=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/ChallengeView$4.
+ class
+SHA-256-Digest: 5W9KL+ZKyblI9sUuU9CvUTv11fxAuqKA4sMsEPFSHAY=
+
+Name: com/aapeli/multiplayer/util/AbstractEditorPane.class
+SHA-256-Digest: MYFtEDqGylYN8Iop/UBLyALKGwxNnZeo0l1npUhyxCA=
+
+Name: com/aapeli/multiplayer/client/session/chat/create/LabelledTextFi
+ eld.class
+SHA-256-Digest: twEUgffRInoyGZvbfp+5M1EJk+E9UHefXfJDF7jNFkI=
+
+Name: pictures/wave-l_2.gif
+SHA-256-Digest: wknP41uHDwRKFmAR6feC8RYV3Qk1I17/TIGFBsSWkj0=
+
+Name: pictures/plane6_flip2.gif
+SHA-256-Digest: GdWHs5AFXX6dXUesY1bbIketC+TDOfm4ibR0VYA2Huo=
+
+Name: pictures/plane_small.gif
+SHA-256-Digest: P0LDj12t0WzpztghprHsOZLptmI3Ta6vBWPuXnW7wh0=
+
+Name: com/aapeli/multiplayer/common/network/ChatCoder.class
+SHA-256-Digest: r0+8Sl9x82yI/cWfiPW+eVs6zKgAEo3M4rO17N4Myz0=
+
+Name: com/aapeli/multiplayer/client/session/game/implInterface/GameToo
+ lkit.class
+SHA-256-Digest: uBKM0xx2F2vmfgVdkK6Iw1FSLgaatVr0nUhTWdxelg8=
+
+Name: com/aapeli/multiplayer/util/console/ConsoleConfiguration.class
+SHA-256-Digest: 05Py6C21sHzw6v3t+gqb/LQf0hweUUkajj9zDNVhi98=
+
+Name: com/aapeli/multiplayer/client/session/ClientSession.class
+SHA-256-Digest: FSLvsVewfK4YncgWGDBvcCLSb+5/lomjYn/7UHiRrmI=
+
+Name: com/aapeli/multiplayer/client/session/game/gui/ChatColors.class
+SHA-256-Digest: Mhcg1MQVuuFWM0KjNpPIbf3DRCrKonLmNIHRqkFYp9Q=
+
+Name: pictures/wave-l_7.gif
+SHA-256-Digest: /ffsTv82JMN86zLROlFuuqyWS5BRZLM6POGnK8KBFjo=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/Radar.class
+SHA-256-Digest: LM0ZYqfs+WkeewEoNGZRdoQZLcdsJYVTjD4ARMqkrHg=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/entities/Bullet.clas
+ s
+SHA-256-Digest: ux+ZDop9cL9tT15F6MIDojX7rt0QuoHz/ILpufADe/0=
+
+Name: pictures/royalairforcesflag.jpg
+SHA-256-Digest: IYYGXPNLPAWm2SE/kq08hf9Ex8a5lsc/QHudL4RextA=
+
+Name: pictures/parachuter3.gif
+SHA-256-Digest: SlKi61mM/mPKB6MHWdQ4hX9OtZ++JQEtwU9jC25y4i4=
+
+Name: com/aapeli/multiplayer/impl/dogfight/common/CreditInitializer.cl
+ ass
+SHA-256-Digest: c+t4p0iOwTbBUuwDSSeHEXSkUZe1NqidRdq+fjGcrtY=
+
+Name: com/aapeli/multiplayer/common/network/EntityProtocol.class
+SHA-256-Digest: fhVjj2kTqnSMGLfhpJAqiVDNrQ+pp7t2OUfNI/ryidM=
+
+Name: com/aapeli/multiplayer/client/session/game/video/VideoSession$Da
+ taElement.class
+SHA-256-Digest: LwJYnqaTSRuqSM/iwqmmmhYVu+yYK5Y38RBKoHN2rsI=
+
+Name: com/aapeli/multiplayer/client/session/chat/view/CreateView$1.cla
+ ss
+SHA-256-Digest: 3xxslWQPCmkk4yZ0qxjS2lu4XMVQ4E3wt1e4m5ZoNac=
+
+Name: com/aapeli/multiplayer/client/session/chat/PasswordBox.class
+SHA-256-Digest: EwruHElnJKlhvoRfblL54nnPkeGMKs3UF7qWbH8g9mw=
+
+Name: pictures/runway2_broke.gif
+SHA-256-Digest: +0KE63DCmrEjtusEhxdLdeGFcGwsME19gwexKWWNb3o=
+
+Name: com/aapeli/multiplayer/client/session/chat/create/ModifiableList
+ .class
+SHA-256-Digest: 94VkOA1LatVx5lBqo6ZpnGxRyDVonv9xpg2zDCPw22g=
+
+Name: com/aapeli/multiplayer/impl/dogfight/client/ScoreTable.class
+SHA-256-Digest: DzJx0pFBLASMpqLkx5RslLY/PcpYZbLngvabZNA4+eU=
+
+Name: pictures/groundDesert.gif
+SHA-256-Digest: jjxnB0fhFdFJcY/hCsMLqlBcHOnJ1tLemvRKY91UR+I=
+

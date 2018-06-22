@@ -1,0 +1,54 @@
+package com.aapeli.multiplayer.common.network;
+
+public abstract interface ChatProtocol
+{
+  public static final int JOIN_OK = 10;
+  public static final int JOIN = 11;
+  public static final int CHAT_MESSAGE = 12;
+  public static final int GAME_SESSION_LIST = 13;
+  public static final int WATCH = 14;
+  public static final int WATCH_OK = 15;
+  public static final int VIDEO = 16;
+  public static final int VIDEO_OK = 17;
+  public static final int LOAD_DONE = 18;
+  public static final int JOIN_FAILED = 19;
+  public static final int WATCH_FAILED = 20;
+  public static final int LOGIN_PARAMETERS = 21;
+  public static final int UPDATE_BALANCE = 23;
+  public static final int BUY = 24;
+  public static final int PING = 26;
+  public static final int PONG = 27;
+  public static final int BUY_ROOM = 28;
+  public static final int JOIN_WITH_PASSWORD = 29;
+  public static final int MANAGE_GAME = 30;
+  public static final int MANAGE_INFO = 31;
+  public static final int DONATE = 32;
+  public static final int ROOM_BUY_TIME = 33;
+  public static final int CREATE_INFO = 34;
+  public static final int CHANNEL_SAY = 41;
+  public static final int CHANNEL_JOIN = 42;
+  public static final int CHANNEL_PART = 43;
+  public static final int CHAT_VIEW = 50;
+  public static final int CREATE_VIEW = 51;
+  public static final int JOIN_VIEW = 52;
+  public static final int MANAGE_VIEW = 53;
+  public static final int HELP = 54;
+  public static final int CHALLENGE_VIEW = 55;
+  public static final int CHALLENGE = 60;
+  public static final int CHALLENGE_ACCEPT = 61;
+  public static final int CHALLENGE_REFUSE = 62;
+  public static final int CHALLENGE_CANCEL = 63;
+  public static final int CHALLENGE_ACCEPT_CONFIRM = 64;
+  public static final int CHALLENGE_PROPOSE = 65;
+  public static final int CHALLENGE_INIT_GAME = 66;
+  public static final int JOIN_FAILED_ROYAL_REQUIRED = 1;
+  public static final int JOIN_FAILED_REGISTERED_REQUIRED = 2;
+  public static final int JOIN_FAILED_CREDIT_REQUIRED = 3;
+  public static final int JOIN_FAILED_DOESNT_EXIST = 4;
+  public static final int JOIN_FAILED_PASSWORD_REQUIRED = 5;
+  public static final int JOIN_FAILED_WRONG_PASSWORD = 6;
+  public static final int JOIN_FAILED_FULL = 7;
+  public static final int JOIN_FAILED_BANNED = 8;
+  public static final int WATCH_FAILED_NOT_ALLOWED = 1;
+  public static final int WATCH_FAILED_BANNED = 2;
+}
